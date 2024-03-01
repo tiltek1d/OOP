@@ -1,0 +1,62 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FourthLab/1.0.0": {
+        "dependencies": {
+          "FirstLab": "1.0.0",
+          "SecondLab": "1.0.0",
+          "ThirdLab": "1.0.0"
+        },
+        "runtime": {
+          "FourthLab.dll": {}
+        }
+      },
+      "FirstLab/1.0.0": {
+        "runtime": {
+          "FirstLab.dll": {}
+        }
+      },
+      "SecondLab/1.0.0": {
+        "runtime": {
+          "SecondLab.dll": {}
+        }
+      },
+      "ThirdLab/1.0.0": {
+        "dependencies": {
+          "FirstLab": "1.0.0",
+          "SecondLab": "1.0.0"
+        },
+        "runtime": {
+          "ThirdLab.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FourthLab/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FirstLab/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SecondLab/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ThirdLab/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
