@@ -1,21 +1,18 @@
-﻿using OOP_ICT.Models;
+﻿using FirstLab.Models;
+using FirstLab.Models.Enums;
 using Xunit;
 
-namespace OOP_ICT.FIrst.Tests;
+namespace FirstLab.Tests;
 
 public class TestCardFunctions
 {
-    /// <summary>
-    /// Тесты пишутся из трех частей итог - данные - что вернуло 
-    /// </summary>
     [Fact]
-    public void AreEquals_InputIsValueAndSuit_ReturnTrue()
+    public void TestCard()
     {
-        // Пока карты не написаны ,давайте проверим числа и строки
-        var value = 10;
-        var suit = "some suit";
-        
-        Assert.Equal(10, value);
-        Assert.Equal("some suit", suit);
-    }    
+        Card card = new ("A", CardSuit.Clubs, false);
+        Assert.Equal("A", card.Name);
+        Assert.False(card.IsOpen);
+        card.IsOpen = true;
+        Assert.True(card.IsOpen);
+    }
 }
