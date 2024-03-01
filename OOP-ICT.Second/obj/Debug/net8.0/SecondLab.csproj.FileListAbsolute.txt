@@ -1,0 +1,14 @@
+C:\Users\nikitosek\RiderProjects\OOP-Labs\SecondLab\bin\Debug\net8.0\SecondLab.exe
+C:\Users\nikitosek\RiderProjects\OOP-Labs\SecondLab\bin\Debug\net8.0\SecondLab.deps.json
+C:\Users\nikitosek\RiderProjects\OOP-Labs\SecondLab\bin\Debug\net8.0\SecondLab.runtimeconfig.json
+C:\Users\nikitosek\RiderProjects\OOP-Labs\SecondLab\bin\Debug\net8.0\SecondLab.dll
+C:\Users\nikitosek\RiderProjects\OOP-Labs\SecondLab\bin\Debug\net8.0\SecondLab.pdb
+C:\Users\nikitosek\RiderProjects\OOP-Labs\SecondLab\obj\Debug\net8.0\SecondLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikitosek\RiderProjects\OOP-Labs\SecondLab\obj\Debug\net8.0\SecondLab.AssemblyInfoInputs.cache
+C:\Users\nikitosek\RiderProjects\OOP-Labs\SecondLab\obj\Debug\net8.0\SecondLab.AssemblyInfo.cs
+C:\Users\nikitosek\RiderProjects\OOP-Labs\SecondLab\obj\Debug\net8.0\SecondLab.csproj.CoreCompileInputs.cache
+C:\Users\nikitosek\RiderProjects\OOP-Labs\SecondLab\obj\Debug\net8.0\SecondLab.dll
+C:\Users\nikitosek\RiderProjects\OOP-Labs\SecondLab\obj\Debug\net8.0\refint\SecondLab.dll
+C:\Users\nikitosek\RiderProjects\OOP-Labs\SecondLab\obj\Debug\net8.0\SecondLab.pdb
+C:\Users\nikitosek\RiderProjects\OOP-Labs\SecondLab\obj\Debug\net8.0\SecondLab.genruntimeconfig.cache
+C:\Users\nikitosek\RiderProjects\OOP-Labs\SecondLab\obj\Debug\net8.0\ref\SecondLab.dll
